@@ -62,8 +62,8 @@ The project utilized Breast Cancer imaging data in PNG format. The images were p
 •	Evaluated both models based on Precision, Recall & F1-Score.
 
 ## Results: -
-### 1)	VGG16  Precision = [0.67, 1.00, 0.88]; Recall = [0.89, 0.57, 0.98]; F1-Score = [0.76, 0.72, 0.92]; Accuracy = 81%
-### 2)	Xception  Precision = [0.95, 0.91, 0.94]; Recall = [0.84, 0.95, 1.00]; F1-Score = [0.89, 0.93, 0.97]; Accuracy = 93%
+### 1)	VGG16:  Precision = [0.67, 1.00, 0.88]; Recall = [0.89, 0.57, 0.98]; F1-Score = [0.76, 0.72, 0.92]; Accuracy = 81%
+### 2)	Xception: Precision = [0.95, 0.91, 0.94]; Recall = [0.84, 0.95, 1.00]; F1-Score = [0.89, 0.93, 0.97]; Accuracy = 93%
 
 ## Conclusion:-
 This project showcased the strengths of both VGG16 and Xception for for medical imaging tasks with Xception showing better overall performance. The attention mechanism played overall performance. The attention mechanism played a critical role in boosting model accuracy by focusing on the most important parts of the images.
